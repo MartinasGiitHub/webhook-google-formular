@@ -1,4 +1,4 @@
-# Webhook → Google Sheet (Testdatenformular)
+# Webhook → Google Sheet → Datenformular
 
 Dieses Projekt ist ein Demonstrator zur Automatisierung eines Datenflusses von HTML-Formularen via Webhook in ein Google Sheet. Ziel ist es, Eingabedaten (z. B. für Testzwecke) strukturiert zu erfassen, zu übertragen und weiterzuverarbeiten – ohne manuelle Zwischenschritte.
 
